@@ -31,5 +31,4 @@ Result of visualize dissparity map
 
 
 <hr/>  
-VS2017  
-Programs written with C
+VS2017, OpenCV
