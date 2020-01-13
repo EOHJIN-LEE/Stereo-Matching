@@ -12,7 +12,13 @@ Adjust the brightness of the two images by comparing them, and then remove the n
 -----------------------------------------------------------------
 And visualize the discparity map and then create smooth images in a heuristic way.
 ---------------------------------------------------------------
-  
+
+<hr/>
+
+Project Solution Design
+----------------------------------------------
+<img width="700" src="https://user-images.githubusercontent.com/44941601/72230027-3d9abf00-35f6-11ea-9ddc-d4f53af37f4c.png">  
+
 <hr/>  
   
 left and right images
