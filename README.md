@@ -17,10 +17,10 @@ And visualize the discparity map and then create smooth images in a heuristic wa
 
 Project Solution Design
 ----------------------------------------------
-There were two ways to find out which points were most similar, but for this project, we chose a regional matching method for computational efficiency.
+1. There were two ways to find out which points were most similar, but for this project, we chose a regional matching method for computational efficiency.
 <img width="700" src="https://user-images.githubusercontent.com/44941601/72230099-b13ccc00-35f6-11ea-978d-55cce9892eb1.png"> 
 
-Next, we image how far the right image is disparity relative to the left image.
+2. Next, we image how far the right image is disparity relative to the left image.
 <img width="700" src="https://user-images.githubusercontent.com/44941601/72230027-3d9abf00-35f6-11ea-9ddc-d4f53af37f4c.png">  
 
 
